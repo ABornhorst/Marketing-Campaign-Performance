@@ -1,6 +1,6 @@
 # Marketing Campaign Performance
 
-This is a Jupyter notebook containing exploratory analysis of the marketing campaign database.
+This is a Jupyter notebook containing exploratory analysis of the marketing campaign database. Additionally I share the link of the same notebook stored in google colab.https://colab.research.google.com/drive/1eEDSiDKFwb414qiT_NtSpwin1TDskbMw?usp=sharing
 
 The database containing the marketing campaign information can be accessed through the following link: https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset
 
